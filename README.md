@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jintoro Yusuf Nabil  
-📍 Lagos, Nigeria | 📞 08025079911 | ✉️ yusufjintroro@gmail.com | [LinkedIn]([YourLinkedIn](http://www.linkedin.com/in/yusuf-jint-a06594211)) | [GitHub](https://github.com/NabilJint)
+📍 Lagos, Nigeria | 📞 08025079911 | ✉️ yusufjintroro@gmail.com | [LinkedIn]((http://www.linkedin.com/in/yusuf-jint-a06594211)) | [GitHub](https://github.com/NabilJint)
 
 I am a software engineer and educator passionate about building scalable web applications, mentoring junior developers, and delivering high-quality solutions. I specialize in full-stack development, backend systems, and real-time applications.
 
@@ -71,6 +71,6 @@ Cross-platform chat app with video calling and real-time messaging.
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([YourLinkedIn](http://www.linkedin.com/in/yusuf-jint-a06594211))  
+- [LinkedIn]((http://www.linkedin.com/in/yusuf-jint-a06594211))  
 - [GitHub](https://github.com/NabilJint)  
 - ✉️ yusufjintroro@gmail.com  
