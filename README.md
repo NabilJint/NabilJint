@@ -1,62 +1,82 @@
-# 👋 Hi, I’m [Your Name]  
-*Software Engineer | Systems Architect | Problem Solver*
+# 👋 Hi, I’m Jintoro Yusuf Nabil  
+📍 Lagos, Nigeria | 📞 08025079911 | ✉️ yusufjintroro@gmail.com | [LinkedIn](YourLinkedIn) | [GitHub](https://github.com/NabilJint)
 
-I am a software engineer passionate about building scalable, high-performance systems and delivering impactful solutions. I specialize in designing robust architectures, optimizing algorithms, and contributing to open-source projects. My work spans full-stack development, distributed systems, and cloud-native architectures.
-
----
-
-## 🚀 About Me
-- 💻 **Current Role:** Senior Software Engineer at [Company]  
-- 🌐 **Expertise:** Distributed systems, cloud infrastructure, high-performance backend services, microservices, data pipelines  
-- 🧠 **Strong in:** Algorithms, data structures, system design, performance optimization  
-- 🏆 **Achievements:** Contributor to [Open Source Projects], published in [Relevant Papers/Blogs]  
-- 🎯 **Goal:** Build systems that scale globally and solve complex real-world problems  
+I am a software engineer and educator passionate about building scalable web applications, mentoring junior developers, and delivering high-quality solutions. I specialize in full-stack development, backend systems, and real-time applications.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Education
 
-**Languages:**  
-Java, Python, C++, Go, JavaScript, TypeScript, Rust  
-
-**Frameworks & Tools:**  
-Spring Boot, Node.js, React, gRPC, Kafka, Redis, Docker, Kubernetes, Terraform, AWS, GCP  
-
-**Databases & Storage:**  
-MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Cassandra, S3  
-
-**Other:**  
-System Design, Microservices Architecture, Cloud-Native Design, CI/CD, Performance Tuning  
+**Bells University Of Technology, Ota, Ogun State**  
+B.Tech in Computer Science – June 2023  
+**Coursework:** Data Structures & Algorithms, Database Systems, Web Development, Object-Oriented Programming
 
 ---
 
-## 🌟 Highlights
-- Designed and implemented [scalable system/project] that handled [X million] requests per day  
-- Optimized [service/database/algorithm] to reduce latency by [X%]  
-- Architected a [microservices/data pipeline] used across multiple teams/products  
-- Mentored engineers on best practices, code quality, and system design  
-- Contributor to [notable open-source projects]  
+## 🛠️ Skills
+
+**Technical Skills:**  
+HTML, CSS, JavaScript, React, Angular, Node.js, Flask, PHP, C#, .NET, Python, SQL, MySQL, PostgreSQL, MongoDB, AWS Lambda, Git, GitHub, GitLab, Docker  
+
+**Soft Skills:**  
+Communication, Time Management, Problem Solving, Analytical Thinking, Writing, Independent, Attention to Detail, Continuous Learning  
+
+---
+
+## 💼 Professional Experience
+
+**Globaltech Computer Institute, Ikorodu, Lagos State**  
+**Software Engineering Tutor** – April 2025 – Present  
+- Promoted to Senior Tutor after NYSC service year; delivered web development courses in HTML, CSS, JavaScript, and PHP.  
+- Designed practical projects and assessments, improving student project completion by 30%.  
+- Mentored junior tutors, enhancing overall teaching quality and student satisfaction by 25%.  
+
+**Software Engineering Lecturer (NYSC Service Year)** – Oct 2024 – Mar 2025  
+- Guided students through hands-on learning in HTML, CSS, JavaScript, and PHP.  
+- Developed exercises and coding projects to reinforce learning objectives.  
+- Provided individualized feedback, strengthening students’ problem-solving skills.  
 
 ---
 
 ## 📂 Projects
-Here are a few highlights from my GitHub portfolio:  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project Name](GitHubLink) | High-performance [system/service] | Java, Kafka, Redis |
-| [Project Name](GitHubLink) | Distributed data pipeline | Python, AWS Lambda, S3 |
-| [Project Name](GitHubLink) | Scalable web platform | React, Node.js, PostgreSQL |
+**Financial Tracker Pro** – Node.js, MongoDB, Express.js  
+Backend app for tracking income and expenses with secure CRUD operations.  
+[GitHub](https://github.com/NabilJint/expense_tracker_pro) | [Live](https://expense-tracker-pro-94hf.onrender.com)  
+
+**StreamVerse: Language Learning Platform** – MERN + Stream API  
+Real-time language exchange platform with chat/video calls; responsive UI.  
+[GitHub](https://github.com/NabilJint/stream-verse) | [Live](https://stream-verse.onrender.com)  
+
+**EliteGo: Uber Clone** – React Native + PostgreSQL  
+Ride-hailing app with real-time driver tracking, trip estimates, and secure authentication.  
+[GitHub](https://github.com/NabilJint/eliteGo)  
+
+**Chat App** – Angular + .NET | In Progress  
+Cross-platform chat app with video calling and real-time messaging.  
+
+---
+
+## 🏆 Certifications
+
+- CS50x: Introduction to Computer Science (Harvard University) – Oct 2024  
+- Graduate Member, Computer Professionals Registration Council of Nigeria (CPN) – Oct 2023  
+- Angular – Complete Beginners Guide (Udemy) – Jul 2023  
+- Learn to Code in Python 3 (Udemy) – Jun 2024  
+- Learn to Program with C# from Scratch (Udemy) – Nov 2023  
+- NodeJS Masterclass (Express, MongoDB, OpenAI) – Jun 2024  
+- Microsoft Office, Windows Server 2012, Java, Microsoft SQL Server 2014, CCNA, Android Mobile App Development – New Horizons, Aug 2023  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Jintoro Yusuf Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabilJint&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
+
 - [LinkedIn](YourLinkedIn)  
-- [Twitter](YourTwitter)  
-- [Portfolio](YourPortfolio)  
+- [GitHub](https://github.com/NabilJint)  
+- ✉️ yusufjintroro@gmail.com  
